@@ -128,4 +128,4 @@ DELIMITER //
     end //
 DELIMITER ;
 
-
+CALL get_top_score_student('C00001');
